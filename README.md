@@ -44,7 +44,7 @@ Once loaded into OBS's script manager, you can configure the script via the prop
 
 ## 🚀 Future Additions
 
-Stay tuned! More OBS automation tools, overlay scripts, and utility plugins will be added to this repository over time. 
+Stay tuned! More OBS automation tools, overlay scripts, and utility plugins will be added to this repository over time.
 
 ---
 
